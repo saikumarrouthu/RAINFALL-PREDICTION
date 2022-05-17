@@ -1,5 +1,6 @@
 # RAINFALL-PREDICTION
-Rain Fall Prediction Using Machine Learning 
+
+RAINFALL PREDICTION USING MACHINE LEARNING
 
 
 
